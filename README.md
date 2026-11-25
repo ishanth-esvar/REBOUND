@@ -12,15 +12,15 @@ These screenshots are from the game running locally.
 
 ### Main menu
 
-![REBOUND main menu](docs/images/main-menu.png)
+![REBOUND main menu](docs/main-menu.png)
 
 ### In-game level
 
-![REBOUND gameplay](docs/images/gameplay.png)
+![REBOUND gameplay](docs/gameplay.png)
 
 ### Pause menu
 
-![REBOUND pause menu](docs/images/pause-menu.png)
+![REBOUND pause menu](docs/pause-menu.png)
 
 ## How to play
 
