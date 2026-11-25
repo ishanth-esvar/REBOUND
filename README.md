@@ -143,10 +143,9 @@ REBOUND/
 ├── README.md
 ├── rebound_save.json       # created automatically when the game runs
 └── docs/
-    └── images/
-        ├── main-menu.png
-        ├── gameplay.png
-        └── pause-menu.png
+   ├── main-menu.png
+   ├── gameplay.png
+   └── pause-menu.png
 ```
 
 ## Project status
